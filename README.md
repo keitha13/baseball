@@ -1,7 +1,7 @@
 # 草野球名鑑
 
 ## サイト概要
-全国の草野球プレーヤー、およびチームの交流を図るためのサービスです。
+全国の草野球プレーヤー、およびチームの交流を図るためのSNSサービスです。
 試合の結果や成績の投稿、シェアを通して活躍を全国に知らしめることができます。
 また選手紹介ページの作成などで有名選手になった気分を味わい、モチベーションをアップさせていきましょう。
 チームの戦績についても投稿し、全国のチームと交流をできます。
@@ -23,7 +23,7 @@
 ・チームの戦績やメンバーの紹介、シェア
 
 ### 機能一覧
-<https://docs.google.com/spreadsheets/d/1uI1DcNE0ivCGq3tqtAXIBNYNMSJ6Aq0_wHvhuWHYRy0/edit?usp=sharing>
+https://docs.google.com/spreadsheets/d/1uI1DcNE0ivCGq3tqtAXIBNYNMSJ6Aq0_wHvhuWHYRy0/edit?usp=sharing
 
 ## 開発環境
 - OS：Linux(CentOS)
